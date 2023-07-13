@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<% var config = htmlWebpackPlugin || SSRData %>
+<html lang="en" class="" <% if(config.files.manifest) { %>
+  manifest="<%= config.files.manifest %>"<% } %>>
+  <!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <title><%= config.options.title || 'React Dashboard'%></title>
+
+    <% if (config.files.favicon) { %>
+    <link rel="shortcut icon" href="<%= config.files.favicon%>" />
+    <% } %>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=0, minimal-ui"
+    />
+
+    <% for (var css in config.files.css) { %>
+    <link href="<%= config.files.css[css] %>" rel="preload" as="style" />
+    <link href="<%= config.files.css[css] %>" rel="stylesheet" />
+    <% } %> <% if (config.options.chunks) { %> <%= config.options.chunks.css %>
+    <% } %>
+  </head>
+  <body>
+    <div id="root"><%= config.innerHtml || '' %></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mutationobserver-shim/dist/mutationobserver.min.js"></script>
+
+    <% for (var chunk in config.files.chunks) { %>
+    <script src="<%= config.files.chunks[chunk].entry %>" defer></script>
+    <% } %> <% if (config.options.devServer) { %>
+    <script src="<%= config.options.devServer%>/webpack-dev-server.js"></script>
+    <% } %>
+  </body>
+</html>

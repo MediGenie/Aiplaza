@@ -1,0 +1,16 @@
+  .input-box {
+    padding: 12px 15px;
+    @apply text-b3 border border-gray300 rounded;
+  }
+  .input-box::placeholder {
+    @apply text-gray400;
+  }
+  .input-box:focus {
+    @apply border-blue500;
+  }
+  .input-box.error {
+    @apply border-warning;
+  }
+  .input-box:disabled {
+    @apply text-gray400 bg-gray100;
+  }

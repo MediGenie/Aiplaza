@@ -1,0 +1,51 @@
+export const columnHeader = [
+  {
+    dataField: 'index',
+    text: 'No.',
+    align: 'center',
+    headerAlign: 'center',
+    sort: true,
+  },
+  {
+    dataField: 'email',
+    text: '서비스 제공자 이메일',
+    align: 'center',
+    headerAlign: 'center',
+    sort: true,
+  },
+  {
+    dataField: 'type',
+    text: '종류',
+    align: 'center',
+    headerAlign: 'center',
+    sort: true,
+  },
+  {
+    dataField: 'previous_amount',
+    text: '변동 전 금액',
+    align: 'center',
+    headerAlign: 'center',
+    sort: true,
+  },
+  {
+    dataField: 'diff_amount',
+    text: '변동액',
+    align: 'center',
+    headerAlign: 'center',
+    sort: true,
+  },
+  {
+    dataField: 'next_amount',
+    text: '변동 후 금액',
+    align: 'center',
+    headerAlign: 'center',
+    sort: true,
+  },
+  {
+    dataField: 'created_at',
+    text: '날짜',
+    align: 'center',
+    headerAlign: 'center',
+    sort: true,
+  },
+];

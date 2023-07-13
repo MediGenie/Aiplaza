@@ -1,0 +1,33 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    @apply box-border;
+  }
+
+  body {
+    @apply bg-gray50;
+  }
+  p h1 h2 h3 input button {
+    @apply text-black text-b1;
+  }
+  input {
+    @apply focus:outline-none;
+  }
+}
+
+@layer components {
+  .error-msg {
+    @apply text-warning;
+    font-size: 14px;
+    line-height: 22px;
+  }
+}

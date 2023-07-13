@@ -1,0 +1,15 @@
+.switch-container {
+  @apply w-15 h-8 p-1 rounded-full transition-colors bg-gray300;
+}
+
+.switch-container.active {
+  @apply bg-blue500;
+}
+
+.switch-item {
+  @apply block w-6 h-6 bg-white rounded-full transition-transform;
+}
+
+.switch-item.active {
+  @apply translate-x-7 shadow;
+}

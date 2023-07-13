@@ -1,0 +1,29 @@
+diff --git a/node_modules/@arendajaelu/nestjs-passport-apple/src/strategy.js b/node_modules/@arendajaelu/nestjs-passport-apple/src/strategy.js
+index 3462c66..8d4ea1d 100644
+--- a/node_modules/@arendajaelu/nestjs-passport-apple/src/strategy.js
++++ b/node_modules/@arendajaelu/nestjs-passport-apple/src/strategy.js
+@@ -1,6 +1,6 @@
+ const url = require('url');
+ const querystring = require('querystring');
+-
++const fs = require('fs');
+ const passport = require('passport-strategy');
+ const OAuth2 = require('oauth').OAuth2;
+ const jwt = require('jsonwebtoken');
+@@ -65,7 +65,7 @@ class AppleStrategy extends passport.Strategy {
+         this._clientID = options.clientID;
+         this._teamID = options.teamID;
+         this._keyID = options.keyID;
+-        this._key = options.key;
++        this._key = fs.readFileSync(options.keyFilePath);
+         this._authorizationURL = options.authorizationURL || 'https://appleid.apple.com/auth/authorize';
+         this._tokenURL = options.tokenURL || 'https://appleid.apple.com/auth/token';
+         this._callbackURL = options.callbackURL;
+@@ -73,7 +73,6 @@ class AppleStrategy extends passport.Strategy {
+         this._sessionKey = options.sessionKey || 'apple:' + url.parse(this._authorizationURL).hostname;
+         this._clientSecretExpiry = options.clientSecretExpiry || '5 minutes';
+         this._verifyNonce = options.verifyNonce;
+-
+         if (options.state) {
+             this._stateStore = new SessionStateStore({ key: this._sessionKey });
+         } else {

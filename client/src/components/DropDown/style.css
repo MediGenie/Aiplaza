@@ -1,0 +1,15 @@
+.listbox-btn {
+  @apply border-gray300 border rounded-t px-[15px] py-3 flex items-center justify-between;
+}
+
+.listbox-btn.open {
+  @apply rounded-b;
+}
+
+
+.listbox-option {
+  @apply hover:bg-gray50 px-[15px] py-3 cursor-pointer;
+}
+.listbox-btn.error {
+  @apply border-warning;
+}

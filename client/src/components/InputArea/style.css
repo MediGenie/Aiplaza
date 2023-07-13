@@ -1,0 +1,14 @@
+.input-textarea {
+  padding: 12px 15px;
+  height: 144px;
+  @apply text-black text-b3 border rounded border-gray300 w-full resize-none;
+}
+.input-textarea::placeholder {
+  @apply text-gray400;
+}
+.input-textarea:focus {
+  @apply border-blue500;
+}
+.input-textarea.error {
+  @apply border-warning;
+}

@@ -1,0 +1,2064 @@
+{"data":[
+  {
+    "full_name": "서울특별시 구로구",
+    "area1": "서울특별시",
+    "area2": "구로구",
+    "location": {
+      "coordinates": [126.8895972, 37.49265],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 강동구",
+    "area1": "서울특별시",
+    "area2": "강동구",
+    "location": {
+      "coordinates": [127.1258639, 37.52736667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 동구",
+    "area1": "부산광역시",
+    "area2": "동구",
+    "location": {
+      "coordinates": [129.059175, 35.13589444],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 강서구",
+    "area1": "부산광역시",
+    "area2": "강서구",
+    "location": {
+      "coordinates": [128.9829083, 35.20916389],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 기장군",
+    "area1": "부산광역시",
+    "area2": "기장군",
+    "location": {
+      "coordinates": [129.2222873, 35.24477541],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대전광역시 유성구",
+    "area1": "대전광역시",
+    "area2": "유성구",
+    "location": {
+      "coordinates": [127.3561363, 36.36405586],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 진안군",
+    "area1": "전라북도",
+    "area2": "진안군",
+    "location": {
+      "coordinates": [127.4269667, 35.78871944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 고흥군",
+    "area1": "전라남도",
+    "area2": "고흥군",
+    "location": {
+      "coordinates": [127.2870556, 34.60806944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 영덕군",
+    "area1": "경상북도",
+    "area2": "영덕군",
+    "location": {
+      "coordinates": [129.3683556, 36.41210278],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 칠곡군",
+    "area1": "경상북도",
+    "area2": "칠곡군",
+    "location": {
+      "coordinates": [128.4037972, 35.99254722],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 울진군",
+    "area1": "경상북도",
+    "area2": "울진군",
+    "location": {
+      "coordinates": [129.4027861, 36.99018611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 밀양시",
+    "area1": "경상남도",
+    "area2": "밀양시",
+    "location": {
+      "coordinates": [128.7489444, 35.50077778],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 중구",
+    "area1": "서울특별시",
+    "area2": "중구",
+    "location": {
+      "coordinates": [126.9996417, 37.56100278],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 성북구",
+    "area1": "서울특별시",
+    "area2": "성북구",
+    "location": {
+      "coordinates": [127.0203333, 37.58638333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 서대문구",
+    "area1": "서울특별시",
+    "area2": "서대문구",
+    "location": {
+      "coordinates": [126.9388972, 37.57636667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 마포구",
+    "area1": "서울특별시",
+    "area2": "마포구",
+    "location": {
+      "coordinates": [126.9105306, 37.56070556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 부산진구",
+    "area1": "부산광역시",
+    "area2": "부산진구",
+    "location": {
+      "coordinates": [129.0553194, 35.15995278],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 연제구",
+    "area1": "부산광역시",
+    "area2": "연제구",
+    "location": {
+      "coordinates": [129.082075, 35.17318611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "울산광역시 남구",
+    "area1": "울산광역시",
+    "area2": "남구",
+    "location": {
+      "coordinates": [129.3301754, 35.54404265],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 춘천시",
+    "area1": "강원도",
+    "area2": "춘천시",
+    "location": {
+      "coordinates": [127.7323111, 37.87854167],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 철원군",
+    "area1": "강원도",
+    "area2": "철원군",
+    "location": {
+      "coordinates": [127.3157333, 38.14405556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 양양군",
+    "area1": "강원도",
+    "area2": "양양군",
+    "location": {
+      "coordinates": [128.6213556, 38.07283333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 청주시",
+    "area1": "충청북도",
+    "area2": "청주시",
+    "location": {
+      "coordinates": [127.5117306, 36.58399722],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 군산시",
+    "area1": "전라북도",
+    "area2": "군산시",
+    "location": {
+      "coordinates": [126.7388444, 35.96464167],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 순창군",
+    "area1": "전라북도",
+    "area2": "순창군",
+    "location": {
+      "coordinates": [127.1396306, 35.37138889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 고창군",
+    "area1": "전라북도",
+    "area2": "고창군",
+    "location": {
+      "coordinates": [126.7041083, 35.43273889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 진도군",
+    "area1": "전라남도",
+    "area2": "진도군",
+    "location": {
+      "coordinates": [126.2655444, 34.48375],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 안동시",
+    "area1": "경상북도",
+    "area2": "안동시",
+    "location": {
+      "coordinates": [128.7316222, 36.56546389],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 영양군",
+    "area1": "경상북도",
+    "area2": "영양군",
+    "location": {
+      "coordinates": [129.1146222, 36.664275],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 예천군",
+    "area1": "경상북도",
+    "area2": "예천군",
+    "location": {
+      "coordinates": [128.4550222, 36.65495],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 통영시",
+    "area1": "경상남도",
+    "area2": "통영시",
+    "location": {
+      "coordinates": [128.4352778, 34.85125833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 남해군",
+    "area1": "경상남도",
+    "area2": "남해군",
+    "location": {
+      "coordinates": [127.8944667, 34.83455833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 거창군",
+    "area1": "경상남도",
+    "area2": "거창군",
+    "location": {
+      "coordinates": [127.9116556, 35.683625],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 서구",
+    "area1": "부산광역시",
+    "area2": "서구",
+    "location": {
+      "coordinates": [129.0263778, 35.09483611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 강화군",
+    "area1": "인천광역시",
+    "area2": "강화군",
+    "location": {
+      "coordinates": [126.4878417, 37.74692907],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "광주광역시 서구",
+    "area1": "광주광역시",
+    "area2": "서구",
+    "location": {
+      "coordinates": [126.8895063, 35.1525164],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 평택시",
+    "area1": "경기도",
+    "area2": "평택시",
+    "location": {
+      "coordinates": [127.1146556, 36.98943889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 이천시",
+    "area1": "경기도",
+    "area2": "이천시",
+    "location": {
+      "coordinates": [127.4432194, 37.27543611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 양평군",
+    "area1": "경기도",
+    "area2": "양평군",
+    "location": {
+      "coordinates": [127.4898861, 37.48893611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 홍천군",
+    "area1": "강원도",
+    "area2": "홍천군",
+    "location": {
+      "coordinates": [127.8908417, 37.69442222],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 화천군",
+    "area1": "강원도",
+    "area2": "화천군",
+    "location": {
+      "coordinates": [127.7103556, 38.10340833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 홍성군",
+    "area1": "충청남도",
+    "area2": "홍성군",
+    "location": {
+      "coordinates": [126.6629083, 36.59836111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 여수시",
+    "area1": "전라남도",
+    "area2": "여수시",
+    "location": {
+      "coordinates": [127.6643861, 34.75731111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 해남군",
+    "area1": "전라남도",
+    "area2": "해남군",
+    "location": {
+      "coordinates": [126.6012889, 34.57043611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 구미시",
+    "area1": "경상북도",
+    "area2": "구미시",
+    "location": {
+      "coordinates": [128.3467778, 36.11655],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 봉화군",
+    "area1": "경상북도",
+    "area2": "봉화군",
+    "location": {
+      "coordinates": [128.734875, 36.89026111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 산청군",
+    "area1": "경상남도",
+    "area2": "산청군",
+    "location": {
+      "coordinates": [127.8756194, 35.41249167],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 영등포구",
+    "area1": "서울특별시",
+    "area2": "영등포구",
+    "location": {
+      "coordinates": [126.8983417, 37.52361111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 노원구",
+    "area1": "서울특별시",
+    "area2": "노원구",
+    "location": {
+      "coordinates": [127.0583889, 37.65146111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 송파구",
+    "area1": "서울특별시",
+    "area2": "송파구",
+    "location": {
+      "coordinates": [127.1079306, 37.51175556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 사상구",
+    "area1": "부산광역시",
+    "area2": "사상구",
+    "location": {
+      "coordinates": [128.9933333, 35.14946667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대전광역시 동구",
+    "area1": "대전광역시",
+    "area2": "동구",
+    "location": {
+      "coordinates": [127.4548596, 36.31204028],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 부천시",
+    "area1": "경기도",
+    "area2": "부천시",
+    "location": {
+      "coordinates": [126.766, 37.5035917],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 가평군",
+    "area1": "경기도",
+    "area2": "가평군",
+    "location": {
+      "coordinates": [127.5117778, 37.82883056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 인제군",
+    "area1": "강원도",
+    "area2": "인제군",
+    "location": {
+      "coordinates": [128.1726972, 38.06697222],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 제천시",
+    "area1": "충청북도",
+    "area2": "제천시",
+    "location": {
+      "coordinates": [128.1931528, 37.12976944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 보령시",
+    "area1": "충청남도",
+    "area2": "보령시",
+    "location": {
+      "coordinates": [126.6148861, 36.330575],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 무주군",
+    "area1": "전라북도",
+    "area2": "무주군",
+    "location": {
+      "coordinates": [127.6628667, 36.00382778],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 장수군",
+    "area1": "전라북도",
+    "area2": "장수군",
+    "location": {
+      "coordinates": [127.5233, 35.64429722],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 완도군",
+    "area1": "전라남도",
+    "area2": "완도군",
+    "location": {
+      "coordinates": [126.7570972, 34.30785278],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 영주시",
+    "area1": "경상북도",
+    "area2": "영주시",
+    "location": {
+      "coordinates": [128.6263444, 36.80293611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 상주시",
+    "area1": "경상북도",
+    "area2": "상주시",
+    "location": {
+      "coordinates": [128.1612639, 36.40796944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 양천구",
+    "area1": "서울특별시",
+    "area2": "양천구",
+    "location": {
+      "coordinates": [126.8687083, 37.51423056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 강남구",
+    "area1": "서울특별시",
+    "area2": "강남구",
+    "location": {
+      "coordinates": [127.0495556, 37.514575],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 수영구",
+    "area1": "부산광역시",
+    "area2": "수영구",
+    "location": {
+      "coordinates": [129.115375, 35.14246667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대구광역시 남구",
+    "area1": "대구광역시",
+    "area2": "남구",
+    "location": {
+      "coordinates": [128.597702, 35.84621351],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 동구",
+    "area1": "인천광역시",
+    "area2": "동구",
+    "location": {
+      "coordinates": [126.6432441, 37.47401607],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 안양시",
+    "area1": "경기도",
+    "area2": "안양시",
+    "location": {
+      "coordinates": [126.9533556, 37.3897],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 구리시",
+    "area1": "경기도",
+    "area2": "구리시",
+    "location": {
+      "coordinates": [127.1318639, 37.591625],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 보은군",
+    "area1": "충청북도",
+    "area2": "보은군",
+    "location": {
+      "coordinates": [127.7316083, 36.48653333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 순천시",
+    "area1": "전라남도",
+    "area2": "순천시",
+    "location": {
+      "coordinates": [127.4893306, 34.94760556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 의성군",
+    "area1": "경상북도",
+    "area2": "의성군",
+    "location": {
+      "coordinates": [128.6993639, 36.34975833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 하동군",
+    "area1": "경상남도",
+    "area2": "하동군",
+    "location": {
+      "coordinates": [127.7534306, 35.06420278],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 중구",
+    "area1": "인천광역시",
+    "area2": "중구",
+    "location": {
+      "coordinates": [126.6217617, 37.47384843],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 강북구",
+    "area1": "서울특별시",
+    "area2": "강북구",
+    "location": {
+      "coordinates": [127.0277194, 37.63695556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 부평구",
+    "area1": "인천광역시",
+    "area2": "부평구",
+    "location": {
+      "coordinates": [126.7219068, 37.50784204],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "광주광역시 북구",
+    "area1": "광주광역시",
+    "area2": "북구",
+    "location": {
+      "coordinates": [126.9010806, 35.1812138],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "울산광역시 중구",
+    "area1": "울산광역시",
+    "area2": "중구",
+    "location": {
+      "coordinates": [129.3328162, 35.56971228],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 군포시",
+    "area1": "경기도",
+    "area2": "군포시",
+    "location": {
+      "coordinates": [126.9375, 37.35865833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 강릉시",
+    "area1": "강원도",
+    "area2": "강릉시",
+    "location": {
+      "coordinates": [128.8784972, 37.74913611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 금산군",
+    "area1": "충청남도",
+    "area2": "금산군",
+    "location": {
+      "coordinates": [127.4903083, 36.10586944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 태안군",
+    "area1": "충청남도",
+    "area2": "태안군",
+    "location": {
+      "coordinates": [126.299975, 36.74266667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 전주시",
+    "area1": "전라북도",
+    "area2": "전주시",
+    "location": {
+      "coordinates": [127.1219194, 35.80918889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 무안군",
+    "area1": "전라남도",
+    "area2": "무안군",
+    "location": {
+      "coordinates": [126.4837, 34.98736944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 거제시",
+    "area1": "경상남도",
+    "area2": "거제시",
+    "location": {
+      "coordinates": [128.6233556, 34.87735833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 합천군",
+    "area1": "경상남도",
+    "area2": "합천군",
+    "location": {
+      "coordinates": [128.1679306, 35.56361667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "제주특별자치도 서귀포시",
+    "area1": "제주특별자치도",
+    "area2": "서귀포시",
+    "location": {
+      "coordinates": [126.5125556, 33.25235],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 금천구",
+    "area1": "서울특별시",
+    "area2": "금천구",
+    "location": {
+      "coordinates": [126.9041972, 37.44910833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 해운대구",
+    "area1": "부산광역시",
+    "area2": "해운대구",
+    "location": {
+      "coordinates": [129.1658083, 35.16001944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대구광역시 중구",
+    "area1": "대구광역시",
+    "area2": "중구",
+    "location": {
+      "coordinates": [128.6061745, 35.86952722],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "울산광역시 울주군",
+    "area1": "울산광역시",
+    "area2": "울주군",
+    "location": {
+      "coordinates": [129.2424748, 35.52230648],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 남양주시",
+    "area1": "경기도",
+    "area2": "남양주시",
+    "location": {
+      "coordinates": [127.2186333, 37.63317778],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 안성시",
+    "area1": "경기도",
+    "area2": "안성시",
+    "location": {
+      "coordinates": [127.2818444, 37.005175],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 삼척시",
+    "area1": "강원도",
+    "area2": "삼척시",
+    "location": {
+      "coordinates": [129.1674889, 37.44708611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 계룡시",
+    "area1": "충청남도",
+    "area2": "계룡시",
+    "location": {
+      "coordinates": [127.2509306, 36.27183611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 당진시",
+    "area1": "충청남도",
+    "area2": "당진시",
+    "location": {
+      "coordinates": [126.6302528, 36.89075],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 경주시",
+    "area1": "경상북도",
+    "area2": "경주시",
+    "location": {
+      "coordinates": [129.2270222, 35.85316944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 고령군",
+    "area1": "경상북도",
+    "area2": "고령군",
+    "location": {
+      "coordinates": [128.2650222, 35.72298611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 광진구",
+    "area1": "서울특별시",
+    "area2": "광진구",
+    "location": {
+      "coordinates": [127.0845333, 37.53573889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 동작구",
+    "area1": "서울특별시",
+    "area2": "동작구",
+    "location": {
+      "coordinates": [126.941575, 37.50965556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 관악구",
+    "area1": "서울특별시",
+    "area2": "관악구",
+    "location": {
+      "coordinates": [126.9538444, 37.47538611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 영도구",
+    "area1": "부산광역시",
+    "area2": "영도구",
+    "location": {
+      "coordinates": [129.0701861, 35.08811667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대구광역시 달성군",
+    "area1": "대구광역시",
+    "area2": "달성군",
+    "location": {
+      "coordinates": [128.4313995, 35.77475029],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 남동구",
+    "area1": "인천광역시",
+    "area2": "남동구",
+    "location": {
+      "coordinates": [126.7309669, 37.44971062],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "광주광역시 남구",
+    "area1": "광주광역시",
+    "area2": "남구",
+    "location": {
+      "coordinates": [126.9025572, 35.13301749],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대전광역시 대덕구",
+    "area1": "대전광역시",
+    "area2": "대덕구",
+    "location": {
+      "coordinates": [127.4170933, 36.35218384],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "세종특별자치시",
+    "area1": "세종특별자치시",
+    "area2": "세종특별자치시",
+    "location": {
+      "coordinates": [127.289448, 36.479522],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 고양시",
+    "area1": "경기도",
+    "area2": "고양시",
+    "location": {
+      "coordinates": [126.7770556, 37.65590833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 화성시",
+    "area1": "경기도",
+    "area2": "화성시",
+    "location": {
+      "coordinates": [126.8335306, 37.19681667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 영동군",
+    "area1": "충청북도",
+    "area2": "영동군",
+    "location": {
+      "coordinates": [127.7856111, 36.17205833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 천안시",
+    "area1": "충청남도",
+    "area2": "천안시",
+    "location": {
+      "coordinates": [127.1524667, 36.804125],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 서산시",
+    "area1": "충청남도",
+    "area2": "서산시",
+    "location": {
+      "coordinates": [126.4521639, 36.78209722],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 부여군",
+    "area1": "충청남도",
+    "area2": "부여군",
+    "location": {
+      "coordinates": [126.9118639, 36.27282222],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 익산시",
+    "area1": "전라북도",
+    "area2": "익산시",
+    "location": {
+      "coordinates": [126.9598528, 35.945275],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 정읍시",
+    "area1": "전라북도",
+    "area2": "정읍시",
+    "location": {
+      "coordinates": [126.8581111, 35.56687222],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 김제시",
+    "area1": "전라북도",
+    "area2": "김제시",
+    "location": {
+      "coordinates": [126.8827528, 35.800575],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 장흥군",
+    "area1": "전라남도",
+    "area2": "장흥군",
+    "location": {
+      "coordinates": [126.9091083, 34.678525],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 영광군",
+    "area1": "전라남도",
+    "area2": "영광군",
+    "location": {
+      "coordinates": [126.5140861, 35.27416667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 김천시",
+    "area1": "경상북도",
+    "area2": "김천시",
+    "location": {
+      "coordinates": [128.1158, 36.13689722],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 영천시",
+    "area1": "경상북도",
+    "area2": "영천시",
+    "location": {
+      "coordinates": [128.940775, 35.97005278],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 김해시",
+    "area1": "경상남도",
+    "area2": "김해시",
+    "location": {
+      "coordinates": [128.8916667, 35.22550556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 의령군",
+    "area1": "경상남도",
+    "area2": "의령군",
+    "location": {
+      "coordinates": [128.2638222, 35.31911944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 서초구",
+    "area1": "서울특별시",
+    "area2": "서초구",
+    "location": {
+      "coordinates": [127.0348111, 37.48078611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 금정구",
+    "area1": "부산광역시",
+    "area2": "금정구",
+    "location": {
+      "coordinates": [129.0943194, 35.24007778],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 의정부시",
+    "area1": "경기도",
+    "area2": "의정부시",
+    "location": {
+      "coordinates": [127.0358417, 37.73528889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 시흥시",
+    "area1": "경기도",
+    "area2": "시흥시",
+    "location": {
+      "coordinates": [126.8050778, 37.37731944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 광주시",
+    "area1": "경기도",
+    "area2": "광주시",
+    "location": {
+      "coordinates": [127.2577861, 37.41450556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 포천시",
+    "area1": "경기도",
+    "area2": "포천시",
+    "location": {
+      "coordinates": [127.2024194, 37.89215556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 충주시",
+    "area1": "충청북도",
+    "area2": "충주시",
+    "location": {
+      "coordinates": [127.9281444, 36.98818056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 옥천군",
+    "area1": "충청북도",
+    "area2": "옥천군",
+    "location": {
+      "coordinates": [127.5736333, 36.30355],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 단양군",
+    "area1": "충청북도",
+    "area2": "단양군",
+    "location": {
+      "coordinates": [128.3678417, 36.98178056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 공주시",
+    "area1": "충청남도",
+    "area2": "공주시",
+    "location": {
+      "coordinates": [127.1211194, 36.44361389],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 예산군",
+    "area1": "충청남도",
+    "area2": "예산군",
+    "location": {
+      "coordinates": [126.850875, 36.67980556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 군위군",
+    "area1": "경상북도",
+    "area2": "군위군",
+    "location": {
+      "coordinates": [128.5750778, 36.23999722],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 창녕군",
+    "area1": "경상남도",
+    "area2": "창녕군",
+    "location": {
+      "coordinates": [128.4945333, 35.54153611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 성동구",
+    "area1": "서울특별시",
+    "area2": "성동구",
+    "location": {
+      "coordinates": [127.039, 37.56061111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 도봉구",
+    "area1": "서울특별시",
+    "area2": "도봉구",
+    "location": {
+      "coordinates": [127.0495222, 37.66583333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 동래구",
+    "area1": "부산광역시",
+    "area2": "동래구",
+    "location": {
+      "coordinates": [129.0858556, 35.20187222],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "울산광역시 동구",
+    "area1": "울산광역시",
+    "area2": "동구",
+    "location": {
+      "coordinates": [129.4166919, 35.50516996],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 성남시",
+    "area1": "경기도",
+    "area2": "성남시",
+    "location": {
+      "coordinates": [127.1477194, 37.44749167],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 의왕시",
+    "area1": "경기도",
+    "area2": "의왕시",
+    "location": {
+      "coordinates": [126.9703889, 37.34195],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 여주시",
+    "area1": "경기도",
+    "area2": "여주시",
+    "location": {
+      "coordinates": [127.6396222, 37.29535833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 고성군",
+    "area1": "강원도",
+    "area2": "고성군",
+    "location": {
+      "coordinates": [128.4701639, 38.37796111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 영암군",
+    "area1": "전라남도",
+    "area2": "영암군",
+    "location": {
+      "coordinates": [126.6986194, 34.79698889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 청송군",
+    "area1": "경상북도",
+    "area2": "청송군",
+    "location": {
+      "coordinates": [129.0594, 36.43329167],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 창원시",
+    "area1": "경상남도",
+    "area2": "창원시",
+    "location": {
+      "coordinates": [128.6401544, 35.2540033],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 동대문구",
+    "area1": "서울특별시",
+    "area2": "동대문구",
+    "location": {
+      "coordinates": [127.0421417, 37.571625],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 은평구",
+    "area1": "서울특별시",
+    "area2": "은평구",
+    "location": {
+      "coordinates": [126.9312417, 37.59996944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대구광역시 북구",
+    "area1": "대구광역시",
+    "area2": "북구",
+    "location": {
+      "coordinates": [128.5828924, 35.8858646],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 연수구",
+    "area1": "인천광역시",
+    "area2": "연수구",
+    "location": {
+      "coordinates": [126.6782658, 37.41038125],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 광명시",
+    "area1": "경기도",
+    "area2": "광명시",
+    "location": {
+      "coordinates": [126.8667083, 37.47575],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 동두천시",
+    "area1": "경기도",
+    "area2": "동두천시",
+    "location": {
+      "coordinates": [127.0626528, 37.90091667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 원주시",
+    "area1": "강원도",
+    "area2": "원주시",
+    "location": {
+      "coordinates": [127.9220556, 37.33908333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 동해시",
+    "area1": "강원도",
+    "area2": "동해시",
+    "location": {
+      "coordinates": [129.1166333, 37.52193056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 곡성군",
+    "area1": "전라남도",
+    "area2": "곡성군",
+    "location": {
+      "coordinates": [127.2941083, 35.27895556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대구광역시 달서구",
+    "area1": "대구광역시",
+    "area2": "달서구",
+    "location": {
+      "coordinates": [128.5325905, 35.82997744],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "광주광역시 동구",
+    "area1": "광주광역시",
+    "area2": "동구",
+    "location": {
+      "coordinates": [126.9230903, 35.14627776],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 김포시",
+    "area1": "경기도",
+    "area2": "김포시",
+    "location": {
+      "coordinates": [126.7177778, 37.61245833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 오산시",
+    "area1": "경기도",
+    "area2": "오산시",
+    "location": {
+      "coordinates": [127.0796417, 37.14691389],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 연천군",
+    "area1": "경기도",
+    "area2": "연천군",
+    "location": {
+      "coordinates": [127.0770667, 38.09336389],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 태백시",
+    "area1": "강원도",
+    "area2": "태백시",
+    "location": {
+      "coordinates": [128.9879972, 37.16122778],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 횡성군",
+    "area1": "강원도",
+    "area2": "횡성군",
+    "location": {
+      "coordinates": [127.9872222, 37.48895833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 음성군",
+    "area1": "충청북도",
+    "area2": "음성군",
+    "location": {
+      "coordinates": [127.6926222, 36.93740556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 광양시",
+    "area1": "전라남도",
+    "area2": "광양시",
+    "location": {
+      "coordinates": [127.6981778, 34.93753611],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 장성군",
+    "area1": "전라남도",
+    "area2": "장성군",
+    "location": {
+      "coordinates": [126.786975, 35.29881111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 울릉군",
+    "area1": "경상북도",
+    "area2": "울릉군",
+    "location": {
+      "coordinates": [130.9037889, 37.480575],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 사천시",
+    "area1": "경상남도",
+    "area2": "사천시",
+    "location": {
+      "coordinates": [128.0667778, 35.00028333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 중랑구",
+    "area1": "서울특별시",
+    "area2": "중랑구",
+    "location": {
+      "coordinates": [127.0947778, 37.60380556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 북구",
+    "area1": "부산광역시",
+    "area2": "북구",
+    "location": {
+      "coordinates": [128.992475, 35.19418056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대구광역시 서구",
+    "area1": "대구광역시",
+    "area2": "서구",
+    "location": {
+      "coordinates": [128.5591601, 35.87194054],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대구광역시 수성구",
+    "area1": "대구광역시",
+    "area2": "수성구",
+    "location": {
+      "coordinates": [128.6307011, 35.85835148],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 옹진군",
+    "area1": "인천광역시",
+    "area2": "옹진군",
+    "location": {
+      "coordinates": [126.6388889, 37.443725],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "울산광역시 북구",
+    "area1": "울산광역시",
+    "area2": "북구",
+    "location": {
+      "coordinates": [129.361245, 35.58270783],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 하남시",
+    "area1": "경기도",
+    "area2": "하남시",
+    "location": {
+      "coordinates": [127.217, 37.53649722],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 목포시",
+    "area1": "전라남도",
+    "area2": "목포시",
+    "location": {
+      "coordinates": [126.3944194, 34.80878889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 화순군",
+    "area1": "전라남도",
+    "area2": "화순군",
+    "location": {
+      "coordinates": [126.9885667, 35.06148056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 성주군",
+    "area1": "경상북도",
+    "area2": "성주군",
+    "location": {
+      "coordinates": [128.2851528, 35.91621111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 함안군",
+    "area1": "경상남도",
+    "area2": "함안군",
+    "location": {
+      "coordinates": [128.4087083, 35.26940556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 용산구",
+    "area1": "서울특별시",
+    "area2": "용산구",
+    "location": {
+      "coordinates": [126.9675222, 37.53609444],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 강서구",
+    "area1": "서울특별시",
+    "area2": "강서구",
+    "location": {
+      "coordinates": [126.851675, 37.54815556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 서구",
+    "area1": "인천광역시",
+    "area2": "서구",
+    "location": {
+      "coordinates": [126.6759616, 37.54546372],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "광주광역시 광산구",
+    "area1": "광주광역시",
+    "area2": "광산구",
+    "location": {
+      "coordinates": [126.793668, 35.13995836],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대전광역시 중구",
+    "area1": "대전광역시",
+    "area2": "중구",
+    "location": {
+      "coordinates": [127.421381, 36.32582989],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 평창군",
+    "area1": "강원도",
+    "area2": "평창군",
+    "location": {
+      "coordinates": [128.3923528, 37.36791667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 양구군",
+    "area1": "강원도",
+    "area2": "양구군",
+    "location": {
+      "coordinates": [127.9922444, 38.10729167],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 진천군",
+    "area1": "충청북도",
+    "area2": "진천군",
+    "location": {
+      "coordinates": [127.4376444, 36.85253889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 증평군",
+    "area1": "충청북도",
+    "area2": "증평군",
+    "location": {
+      "coordinates": [127.5832889, 36.78218056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 청양군",
+    "area1": "충청남도",
+    "area2": "청양군",
+    "location": {
+      "coordinates": [126.8042556, 36.45626944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 나주시",
+    "area1": "전라남도",
+    "area2": "나주시",
+    "location": {
+      "coordinates": [126.7128667, 35.01283889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 담양군",
+    "area1": "전라남도",
+    "area2": "담양군",
+    "location": {
+      "coordinates": [126.9901639, 35.318125],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 구례군",
+    "area1": "전라남도",
+    "area2": "구례군",
+    "location": {
+      "coordinates": [127.4649333, 35.19945833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 보성군",
+    "area1": "전라남도",
+    "area2": "보성군",
+    "location": {
+      "coordinates": [127.0820889, 34.76833333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 강진군",
+    "area1": "전라남도",
+    "area2": "강진군",
+    "location": {
+      "coordinates": [126.7691972, 34.63891111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 문경시",
+    "area1": "경상북도",
+    "area2": "문경시",
+    "location": {
+      "coordinates": [128.1890194, 36.58363056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 경산시",
+    "area1": "경상북도",
+    "area2": "경산시",
+    "location": {
+      "coordinates": [128.7434639, 35.82208889],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 양산시",
+    "area1": "경상남도",
+    "area2": "양산시",
+    "location": {
+      "coordinates": [129.0394111, 35.33192778],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 고성군",
+    "area1": "경상남도",
+    "area2": "고성군",
+    "location": {
+      "coordinates": [128.3245417, 34.9699],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 중구",
+    "area1": "부산광역시",
+    "area2": "중구",
+    "location": {
+      "coordinates": [129.0345083, 35.10321667],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 미추홀구",
+    "area1": "인천광역시",
+    "area2": "미추홀구",
+    "location": {
+      "coordinates": [126.6502972, 37.46369169],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대전광역시 서구",
+    "area1": "대전광역시",
+    "area2": "서구",
+    "location": {
+      "coordinates": [127.3834158, 36.35707299],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 용인시",
+    "area1": "경기도",
+    "area2": "용인시",
+    "location": {
+      "coordinates": [127.2038444, 37.23147778],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 안산시",
+    "area1": "경기도",
+    "area2": "안산시",
+    "location": {
+      "coordinates": [126.8468194, 37.29851944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 파주시",
+    "area1": "경기도",
+    "area2": "파주시",
+    "location": {
+      "coordinates": [126.7819528, 37.75708333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 속초시",
+    "area1": "강원도",
+    "area2": "속초시",
+    "location": {
+      "coordinates": [128.5941667, 38.204275],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 영월군",
+    "area1": "강원도",
+    "area2": "영월군",
+    "location": {
+      "coordinates": [128.4640194, 37.18086111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청북도 괴산군",
+    "area1": "충청북도",
+    "area2": "괴산군",
+    "location": {
+      "coordinates": [127.7888306, 36.81243056],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 아산시",
+    "area1": "충청남도",
+    "area2": "아산시",
+    "location": {
+      "coordinates": [127.0046417, 36.78710556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 서천군",
+    "area1": "충청남도",
+    "area2": "서천군",
+    "location": {
+      "coordinates": [126.6938889, 36.07740556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 남원시",
+    "area1": "전라북도",
+    "area2": "남원시",
+    "location": {
+      "coordinates": [127.3925, 35.41325556],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 함평군",
+    "area1": "전라남도",
+    "area2": "함평군",
+    "location": {
+      "coordinates": [126.5186194, 35.06274444],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라남도 신안군",
+    "area1": "전라남도",
+    "area2": "신안군",
+    "location": {
+      "coordinates": [126.3817306, 34.78981111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 청도군",
+    "area1": "경상북도",
+    "area2": "청도군",
+    "location": {
+      "coordinates": [128.7362, 35.64431111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 진주시",
+    "area1": "경상남도",
+    "area2": "진주시",
+    "location": {
+      "coordinates": [128.11, 35.17703333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상남도 함양군",
+    "area1": "경상남도",
+    "area2": "함양군",
+    "location": {
+      "coordinates": [127.7274194, 35.51746944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "제주특별자치도 제주시",
+    "area1": "제주특별자치도",
+    "area2": "제주시",
+    "location": {
+      "coordinates": [126.5332083, 33.49631111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "서울특별시 종로구",
+    "area1": "서울특별시",
+    "area2": "종로구",
+    "location": {
+      "coordinates": [126.9816417, 37.57037778],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 남구",
+    "area1": "부산광역시",
+    "area2": "남구",
+    "location": {
+      "coordinates": [129.0865, 35.13340833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "부산광역시 사하구",
+    "area1": "부산광역시",
+    "area2": "사하구",
+    "location": {
+      "coordinates": [128.9770417, 35.10142778],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "대구광역시 동구",
+    "area1": "대구광역시",
+    "area2": "동구",
+    "location": {
+      "coordinates": [128.6355584, 35.88682728],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "인천광역시 계양구",
+    "area1": "인천광역시",
+    "area2": "계양구",
+    "location": {
+      "coordinates": [126.737744, 37.53770728],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 수원시",
+    "area1": "경기도",
+    "area2": "수원시",
+    "location": {
+      "coordinates": [127.0122222, 37.30101111],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 양주시",
+    "area1": "경기도",
+    "area2": "양주시",
+    "location": {
+      "coordinates": [127.0478194, 37.78245],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경기도 과천시",
+    "area1": "경기도",
+    "area2": "과천시",
+    "location": {
+      "coordinates": [126.9898, 37.42637222],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "강원도 정선군",
+    "area1": "강원도",
+    "area2": "정선군",
+    "location": {
+      "coordinates": [128.6630861, 37.37780833],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "충청남도 논산시",
+    "area1": "충청남도",
+    "area2": "논산시",
+    "location": {
+      "coordinates": [127.1009111, 36.18420278],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 완주군",
+    "area1": "전라북도",
+    "area2": "완주군",
+    "location": {
+      "coordinates": [127.1495972, 35.84296944],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 임실군",
+    "area1": "전라북도",
+    "area2": "임실군",
+    "location": {
+      "coordinates": [127.2847528, 35.60806389],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "전라북도 부안군",
+    "area1": "전라북도",
+    "area2": "부안군",
+    "location": {
+      "coordinates": [126.7356778, 35.72853333],
+      "type": "Point"
+    }
+  },
+  {
+    "full_name": "경상북도 포항시",
+    "area1": "경상북도",
+    "area2": "포항시",
+    "location": {
+      "coordinates": [129.3616667, 36.00568611],
+      "type": "Point"
+    }
+  }
+]
+}

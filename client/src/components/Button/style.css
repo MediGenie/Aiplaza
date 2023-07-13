@@ -1,0 +1,4 @@
+.btn {
+  padding: 14px;
+  @apply text-b2 text-white text-center bg-blue800 rounded;
+}

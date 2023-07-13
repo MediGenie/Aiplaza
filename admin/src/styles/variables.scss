@@ -1,0 +1,263 @@
+@import '../dashboard-style/scss/variables';
+
+body {
+  font-family: 'Noto Sans KR';
+}
+.normal {
+  font-weight: 400;
+}
+.bold {
+  font-weight: 700;
+}
+.bolder {
+  font-weight: 800;
+}
+.light {
+  font-weight: 300;
+}
+// 나눔스퀘어에서는 비밀번호 0 이걸 지원안함 http://bitly.kr/pVXc61s9ofN
+input[type='password'] {
+  font-family: sans-serif;
+}
+// 사이드바 스크롤
+.sidebar__section.sidebar__section--fluid.sidebar__section--cover {
+  max-height: 630px;
+}
+// 사이드바 아이템 호버
+.sidebar-menu__entry__link:hover {
+  .sidebar-menu__entry__icon svg path {
+    fill: #3f4651;
+  }
+}
+
+// 로딩 모달
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.loading-loader {
+  position: absolute;
+  top: 40%;
+  left: 55%;
+  transform: translate(-50%, 0);
+}
+.loading-loader svg#loader-circle {
+  transform-origin: 50% 50%;
+  animation: spin 1s linear infinite;
+}
+// --- 테이블 상위 컨테이너
+.list-container {
+  max-width: 100%;
+}
+
+// --- LOGIN emptylayout
+// https://stackoverflow.com/questions/21600345/flexbox-and-internet-explorer-11-displayflex-in-html
+.fullscreen__section--center {
+  width: 100%;
+  min-height: 100vh;
+  flex: 1 1 auto;
+}
+
+// --- FORM 양식
+// https://stackoverflow.com/questions/35459918/disable-label-click-event
+.form-control {
+  background-color: #ffffff;
+  background-clip: border-box;
+}
+
+.form-label {
+  pointer-events: none;
+}
+
+.custom-card {
+  width: 100%;
+  border-radius: 3px;
+}
+
+.custom-dropdown-item:hover {
+  background-color: #10bff2;
+  border-color: #10bff2;
+  color: #ffffff;
+}
+
+// https://stackoverflow.com/questions/17772260/textarea-auto-height
+
+// https://projects.lukehaas.me/css-loaders/
+.custom-loader,
+.custom-loader:before,
+.custom-loader:after {
+  border-radius: 50%;
+  width: 2.5em;
+  height: 2.5em;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+  -webkit-animation: load7 1.8s infinite ease-in-out;
+  animation: load7 1.8s infinite ease-in-out;
+}
+
+.custom-loader {
+  color: #409fff;
+  font-size: 10px;
+  margin: 70px auto;
+  position: relative;
+  text-indent: -9999em;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+
+.custom-loader:before,
+.custom-loader:after {
+  content: '';
+  position: absolute;
+  top: 0;
+}
+
+.custom-loader:before {
+  left: -3.5em;
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+
+.custom-loader:after {
+  left: 3.5em;
+}
+
+@-webkit-keyframes load7 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1.3em;
+  }
+
+  40% {
+    box-shadow: 0 2.5em 0 0;
+  }
+}
+
+@keyframes load7 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 2.5em 0 -1.3em;
+  }
+
+  40% {
+    box-shadow: 0 2.5em 0 0;
+  }
+}
+.policy-body {
+  width: 100%;
+  height: 620px;
+  overflow-y: scroll;
+}
+
+// https://webdesign.tutsplus.com/ko/articles/quick-tip-styling-scrollbars-to-match-your-ui-design--webdesign-9430
+.search-result {
+  width: 100%;
+  height: 200px;
+  overflow-y: scroll;
+}
+
+.search-result::-webkit-scrollbar {
+  display: none;
+  // width: 3px;
+}
+
+// https://stackoverflow.com/questions/7242385/hide-scrollbar-in-ie
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .search-result {
+    -ms-overflow-style: none;
+  }
+}
+
+// 오늘도 회복중 치료식 모달
+.survey.dropdown-menu.show {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+
+.form-check {
+  padding-left: 0.2rem;
+}
+
+// 폼 양식: 보기 페이지에서의 인풋 스타일
+.no-line-detail {
+  // background-color: #ffffff !important;
+  // border-color: #ffffff;
+  border-color: #ffffff;
+  background-color: #ffffff !important;
+  padding-left: 0;
+}
+.line-detail {
+  background-color: #f9fafc !important;
+}
+
+// 검색 모달에서의 항목 강조
+.search-person {
+  cursor: pointer;
+}
+.search-person:hover {
+  font-weight: 900;
+}
+
+// 01.15 탈퇴의 드롭다운
+.dropdown-menu {
+  width: 100%;
+}
+.recharts-default-tooltip {
+  background-color: #fff !important;
+  border: 1px solid #fff !important;
+}
+.recharts-tooltip-label {
+  color: #000 !important;
+}
+
+// 02.04 비교 모달의 수평 그래프 라벨
+.recharts-layer.recharts-label-list {
+  text {
+    @media screen and (max-width: 575px) {
+      font-size: 9px;
+    }
+    @media screen and (min-width: 576px) and (max-width: 1239px) {
+      font-size: 10px;
+    }
+    @media screen and (min-width: 1240px) {
+      font-size: 12px;
+    }
+  }
+}
+.recharts-layer.recharts-cartesian-axis-tick {
+  text {
+    @media screen and (max-width: 575px) {
+      font-size: 9px;
+    }
+    @media screen and (min-width: 576px) and (max-width: 1239px) {
+      font-size: 10px;
+    }
+    @media screen and (min-width: 1240px) {
+      font-size: 12px;
+    }
+  }
+}
+.recharts-text.recharts-cartesian-axis-tick-value {
+  @media screen and (max-width: 575px) {
+    font-size: 9px !important;
+  }
+  @media screen and (min-width: 576px) and (max-width: 1239px) {
+    font-size: 10px !important;
+  }
+  @media screen and (min-width: 1240px) {
+    font-size: 12px !important;
+  }
+}
+// 04/09 숫자 input 에 화살표 제거
+// https://css-tricks.com/snippets/css/turn-off-number-input-spinners/
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

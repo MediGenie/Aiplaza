@@ -1,0 +1,13 @@
+.input-line {
+  padding: 0 15px 12px; 
+  @apply text-b3 border-b border-gray300;
+}
+.input-line::placeholder {
+  @apply text-gray400;
+}
+.input-line:focus {
+  @apply border-blue500;
+}
+.input-line.error {
+  @apply border-warning;
+}

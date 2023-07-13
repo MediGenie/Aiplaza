@@ -1,0 +1,33 @@
+diff --git a/node_modules/@owczar/dashboard-style--airframe/js-modules/index.js b/node_modules/@owczar/dashboard-style--airframe/js-modules/index.js
+index 24da814..368e71f 100644
+--- a/node_modules/@owczar/dashboard-style--airframe/js-modules/index.js
++++ b/node_modules/@owczar/dashboard-style--airframe/js-modules/index.js
+@@ -1,5 +1,5 @@
+ var dashboardVersion = require('./dashboard-version');
+-var extendedFaker = require('./extended-faker');
++// var extendedFaker = require('./extended-faker');
+ var SideMenuAnimate = require('./side-menu-animate');
+ var SidebarEntryAnimate = require('./sidebar-entry-animate');
+ var SlimSidebarAnimate = require('./slim-sidebar-animate');
+@@ -11,7 +11,7 @@ var Colors = require('./colors');
+ 
+ module.exports = {
+     dashboardVersion: dashboardVersion,
+-    faker: extendedFaker,
++    // faker: extendedFaker,
+     SideMenuAnimate: SideMenuAnimate,
+     SidebarEntryAnimate: SidebarEntryAnimate,
+     SlimSidebarAnimate: SlimSidebarAnimate,
+diff --git a/node_modules/@owczar/dashboard-style--airframe/scss/bootstrap/_variables.scss b/node_modules/@owczar/dashboard-style--airframe/scss/bootstrap/_variables.scss
+index d2e08ee..2c3147b 100644
+--- a/node_modules/@owczar/dashboard-style--airframe/scss/bootstrap/_variables.scss
++++ b/node_modules/@owczar/dashboard-style--airframe/scss/bootstrap/_variables.scss
+@@ -1069,7 +1069,7 @@ $form-feedback-tooltip-border-radius: $tooltip-border-radius !default;
+ // Popovers
+ 
+ $popover-font-size:                 $font-size-sm !default;
+-$popover-bg:                        $dark !default; // changed
++$popover-bg:                        $white !default; // changed
+ $popover-max-width:                 276px !default;
+ $popover-border-width:              $border-width !default;
+ $popover-border-color:              $dark !default; // changed

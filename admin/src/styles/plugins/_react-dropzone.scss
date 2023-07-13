@@ -1,0 +1,16 @@
+@import "./../variables.scss";
+
+.dropzone {
+  background-color: #ffffff;
+  border: 2px dashed $gray-300;
+  padding: 5px;
+  text-align: center;
+  color: #000;
+  cursor: pointer;
+
+  &:hover,
+  &--active {
+    border-color: $primary;
+    background-color: rgba($primary, 0.1);
+  }
+}

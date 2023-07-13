@@ -1,0 +1,10 @@
+@import '../dashboard-style/scss/style';
+@import '~react-image-lightbox/style.css';
+@import url('https://fonts.googleapis.com/earlyaccess/notosanskr.css');
+
+
+.ck-editor__editable_inline {
+  max-height: 500px;
+  overflow-y: 'auto';
+  color: black;
+}
